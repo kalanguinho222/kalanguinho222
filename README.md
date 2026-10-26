@@ -1,4 +1,4 @@
-## ola<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## olá, bem-vindo ao meu perfil do github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
  
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
