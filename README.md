@@ -13,3 +13,7 @@
     
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanguinho222&layout=compact&count_private=true&theme=dark&show_icons=true" />
+
+•abra meu principal projeto pelo link: ( https://colector-market.great-site.net ) ou pelo qr code:
+
+<img src="">
