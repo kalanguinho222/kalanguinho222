@@ -1,4 +1,4 @@
-## olá, bem-vindo ao meu perfil do github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Olá, bem-vindo ao meu perfil do github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
  
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanguinho222&layout=compact&count_private=true&theme=dark&show_icons=true" />
 
-<h3>• abra meu principal projeto pelo link: ( https://colector-market.great-site.net ) 
+<h3>• Abra meu principal projeto pelo link: ( https://colector-market.great-site.net ) 
  
  ou pelo qr code: </h3>
 
