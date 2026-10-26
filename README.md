@@ -20,4 +20,4 @@
  
  ou pelo qr code: </h3>
 
-<img src="qrcode_colector-market.great-site.net.png">
+<img src="qrcode_colector-market.great-site.net.png" width="28%" height="28%">
