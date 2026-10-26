@@ -18,4 +18,4 @@
  
  ou pelo qr code: </h3>
 
-<img src="qrcode_colector-market.great-site.net.png" border-radius="20px">
+<img src="qrcode_colector-market.great-site.net.png">
