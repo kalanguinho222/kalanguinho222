@@ -12,4 +12,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
     
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanguinho222&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanguinho222&layout=compact&count_private=true&theme=dark&show_icons=true" />
